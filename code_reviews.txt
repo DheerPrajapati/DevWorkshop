@@ -1,0 +1,31 @@
+1. What concepts are similar between the companies (List at least two)? What are some key differences (List at least two)? 
+In general, what items should be present in a code review checklist for a development team?
+
+Dheer's Response: A concept that is similar between the two companies is communication, both of these companies talk about
+how communication is important and how crutical it is when it comes to code reviews. Another concept that are similar between
+the two companies is the emphasis of automation in code reviews, both companies talk about how automation will catch common 
+errors and enforce coding standards. One Key difference would be the types of tools each company uses, for example Visual studio
+uses different tools for code reviews like Rubocop, StyleCop and etc. But Yelp has a completly different tech stack. Another difference
+would be that Visual studio usues something call Emoji Style feedback which includes feedback that includes emojis but yelp doesnt have so.
+In general The items that should be present in a code review checklist for a development team should be Clear communication, Automation,
+Team collaboration, and A good tone when code reviewing.
+
+
+
+
+2. Find an example of a "good" code review. Provide a link to the review and explain why you found the review beneficial.
+
+Dheer's Response: https://codereview.stackexchange.com/questions/291445/simple-task-for-networking-programmers
+This is a good code review because of the fact that all of the feedback is listed in bold whihc is very easy for the indivual
+that is receving feedback to see, The reviewer also includes examples which makes it easier to understand what the reviewer is saying
+And the reviewer includes hyperlinks to various different system calls.
+
+3. Find an example of a "bad" code review. Provide a link to the review and briefly explain why you found the review not beneficial. 
+In addition, include recommendations for improvement to the review feedback.
+
+Dheer's Response: https://codereview.stackexchange.com/questions/291338/a-library-management-system
+
+This is an example of a bad code review due to the fact that it is not easy to read and point out what exactly you need to fix
+just by a quick glimpse. Another reason is that the individual didnt use bold headers, and didnt provide various different types of
+images and examples to elaborate on the fixes. Some recommendations would be to add images, use bold titles, and add more hyper links.
+
